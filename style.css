@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./img/wp8732328-mondstadt-wallpapers.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.background__inazuma{
+    background-image: url(./img/1161810.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
